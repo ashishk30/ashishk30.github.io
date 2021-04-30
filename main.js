@@ -104,7 +104,7 @@
     }
 
     let imagePatho = (frameNumbero, animationo) => {
-        return "https://github.com/ashishk30/ashishk30.github.io/blob/master/r" + animationo + frameNumbero + ".png?raw=true";
+        return "r" + animationo + frameNumbero + ".png?raw=true";
     };
 
     let frameso = {
