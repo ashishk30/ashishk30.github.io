@@ -8,7 +8,7 @@
     }
 
     let imagePath = (frameNumber, animation) => {
-        return "https://github.com/ashishk30/2001.github.io/tree/main" + animation + frameNumber + ".png?raw=true";
+        return "" + animation + frameNumber + ".png?raw=true";
     };
 
     let frames = {
